@@ -33,6 +33,7 @@ The **Task Management System** is a web application designed to facilitate task 
 - [ ] **JPA (Java Persistence API)**: ORM for database interactions.
 - [ ] **Swagger**: API documentation.
 - [ ] **Maven**: Dependency and project management.
+- [ ] **Unit Testing**: Testing the application using Junit/Mokito.   
 
 ## API Documentation
 
@@ -68,6 +69,9 @@ The Task Management System API provides the following endpoints:
 ![image](https://github.com/user-attachments/assets/eae242a2-29f8-496d-90ad-41fb53549e9c)
 ![image](https://github.com/user-attachments/assets/02fb9c4e-4196-4b9a-8624-287e920428b9)
 
+## Unit test coverage report 
+
+![image](https://github.com/user-attachments/assets/3910cc99-bc5d-4ecf-96c8-a8d7c3b854f2)
 
 ## Setup Instructions
 
