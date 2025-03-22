@@ -54,6 +54,9 @@ The Task Management System API provides the following endpoints:
 | `GET` | `/api/tasks/pagination?page={page}&size={size}` | Paginate tasks |
 | `GET` | `/api/tasks/search?query={query}` | Search tasks |
 
+![image](https://github.com/user-attachments/assets/1ac4f5c6-9637-43da-a350-34977d9c6933)
+![image](https://github.com/user-attachments/assets/b75a61a5-5cf5-420f-a384-1af2a9aedfab)
+
 ### User Endpoints
 | Method | Endpoint | Description |
 |--------|---------|-------------|
@@ -61,6 +64,10 @@ The Task Management System API provides the following endpoints:
 | `GET` | `/api/users/{id}` | Retrieve user by ID |
 | `PUT` | `/api/users/{id}` | Update a user by ID |
 | `DELETE` | `/api/users/{id}` | Delete a user by ID |
+
+![image](https://github.com/user-attachments/assets/eae242a2-29f8-496d-90ad-41fb53549e9c)
+![image](https://github.com/user-attachments/assets/02fb9c4e-4196-4b9a-8624-287e920428b9)
+
 
 ## Setup Instructions
 
